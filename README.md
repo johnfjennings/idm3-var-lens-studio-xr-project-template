@@ -14,7 +14,7 @@ This readme.md file contains instructions that may assist you with the set of  f
 
 
 ## Starter files / folders
-
+```
 _ docs
  | |-readme.md 
  |_LensStudioProject
@@ -24,7 +24,7 @@ _ docs
  |_staticwebsite
    |-readme.md
    |-index.html
-
+```
 
 ## Git Commands
 
@@ -36,6 +36,6 @@ git add --all             # recursively add all files in folder to repo so that 
 git commit -m "<Add appropriate message here>" # create a snapshot or commit of your repo in its current state
 git push                  # Push all recent commits to the origin server e.g. the github repo
 git pull                  # Pull all updates / commits from origin server and bring your local repo up to date
-  
+```
  
 
