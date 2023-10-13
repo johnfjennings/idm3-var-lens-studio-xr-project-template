@@ -1,0 +1,1 @@
+Place your Lens studio in this folder 

@@ -1,0 +1,1 @@
+This folder can be published as a githubpages static website
